@@ -17,6 +17,6 @@ intro:
 
 ## Title
 
-Body
+Park Ji Su
 
 ![collegeofcomputing](/assets/images/collegeofcomputing.jpg)
